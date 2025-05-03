@@ -1,15 +1,6 @@
 
 # FPGA\_Projects
 
-This repository contains a collection of FPGA design projects implemented in **Verilog HDL**, showcasing the three primary modeling techniques used in digital design:
-
-* **Gate-Level Modeling**
-* **Dataflow Modeling**
-* **Behavioral Modeling**
-
-Each project demonstrates real-world FPGA design practices using Verilog and is organized for clarity, learning, and reusability.
-
----
 
 ## 📁 Project Overview
 
