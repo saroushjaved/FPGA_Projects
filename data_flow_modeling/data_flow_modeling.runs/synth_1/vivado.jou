@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Fri May  2 12:13:08 2025
+# Process ID: 35864
+# Current directory: D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.runs/synth_1
+# Command line: vivado.exe -log four_to_one_mux_DF.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source four_to_one_mux_DF.tcl
+# Log file: D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.runs/synth_1/four_to_one_mux_DF.vds
+# Journal file: D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.runs/synth_1\vivado.jou
+# Running On        :Soroush
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+# CPU Frequency     :2112 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :12679 MB
+# Swap memory       :15536 MB
+# Total Virtual     :28216 MB
+# Available Virtual :2086 MB
+#-----------------------------------------------------------
+source four_to_one_mux_DF.tcl -notrace

@@ -1,0 +1,23 @@
+Time resolution is 1 ps
+Time = 0 | clear = 1 | q = 0000
+Time = 20000 | clear = 0 | q = 0000
+Time = 30000 | clear = 0 | q = 0001
+Time = 40000 | clear = 0 | q = 0010
+Time = 50000 | clear = 0 | q = 0011
+Time = 60000 | clear = 0 | q = 0100
+Time = 70000 | clear = 0 | q = 0101
+Time = 80000 | clear = 0 | q = 0110
+Time = 90000 | clear = 0 | q = 0111
+Time = 100000 | clear = 0 | q = 1000
+Time = 110000 | clear = 0 | q = 1001
+Time = 120000 | clear = 0 | q = 1010
+Time = 130000 | clear = 0 | q = 1011
+Time = 140000 | clear = 0 | q = 1100
+Time = 150000 | clear = 0 | q = 1101
+Time = 160000 | clear = 0 | q = 1110
+Time = 170000 | clear = 0 | q = 1111
+Time = 180000 | clear = 0 | q = 0000
+Time = 190000 | clear = 0 | q = 0001
+Time = 200000 | clear = 0 | q = 0010
+Time = 210000 | clear = 0 | q = 0011
+$finish called at time : 220 ns : File "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sim_1/new/tb_ripple_count.v" Line 40

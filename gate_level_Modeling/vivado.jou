@@ -1,0 +1,47 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Fri May  2 11:04:07 2025
+# Process ID: 32212
+# Current directory: D:/2025/Learning/FPGA_Projects/gate_level_Modeling
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent38592 D:\2025\Learning\FPGA_Projects\gate_level_Modeling\gate_level_Modeling.xpr
+# Log file: D:/2025/Learning/FPGA_Projects/gate_level_Modeling/vivado.log
+# Journal file: D:/2025/Learning/FPGA_Projects/gate_level_Modeling\vivado.jou
+# Running On        :Soroush
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+# CPU Frequency     :2112 MHz
+# CPU Physical cores:4
+# CPU Logical cores :8
+# Host memory       :12679 MB
+# Swap memory       :10200 MB
+# Total Virtual     :22879 MB
+# Available Virtual :7593 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/2025/Learning/FPGA_Projects/gate_level_Modeling/gate_level_Modeling.xpr
+update_compile_order -fileset sources_1
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top mux_4_to_1 [current_fileset]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 6
+wait_on_run impl_1
+open_run impl_1
+close_design
+open_run synth_1 -name synth_1
+open_run impl_1
+create_dataflow_design
+current_design impl_1
+current_design dfvnl_16_impl_1
+current_design impl_1
+report_methodology -name ultrafast_methodology_1
+report_clock_networks -name {network_1}
+report_utilization -name utilization_1
+current_design synth_1

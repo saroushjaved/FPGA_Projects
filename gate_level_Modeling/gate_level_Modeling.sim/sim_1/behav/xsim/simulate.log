@@ -1,0 +1,18 @@
+Time resolution is 1 ps
+Time = 0 A = 0000, B = 0000 CIN = 0 OUT= 0000 Carry = x
+Time = 5000 A = 0001, B = 0001 CIN = 0 OUT= 0010 Carry = x
+Time = 10000 A = 0010, B = 0010 CIN = 0 OUT= 0100 Carry = x
+Time = 15000 A = 0011, B = 0010 CIN = 0 OUT= 0101 Carry = x
+Time = 20000 A = 0100, B = 0010 CIN = 0 OUT= 0110 Carry = x
+Time = 25000 A = 0101, B = 0100 CIN = 0 OUT= 1001 Carry = x
+Time = 30000 A = 0110, B = 0100 CIN = 0 OUT= 1010 Carry = x
+Time = 35000 A = 0111, B = 0100 CIN = 0 OUT= 1011 Carry = x
+Time = 40000 A = 1000, B = 0100 CIN = 0 OUT= 1100 Carry = x
+Time = 45000 A = 1001, B = 0001 CIN = 0 OUT= 1010 Carry = x
+Time = 50000 A = 1010, B = 0001 CIN = 0 OUT= 1011 Carry = x
+Time = 55000 A = 1011, B = 1000 CIN = 0 OUT= 0011 Carry = x
+Time = 60000 A = 1100, B = 1000 CIN = 0 OUT= 0100 Carry = x
+Time = 65000 A = 1101, B = 1000 CIN = 0 OUT= 0101 Carry = x
+Time = 70000 A = 1110, B = 1000 CIN = 0 OUT= 0110 Carry = x
+Time = 75000 A = 1111, B = 0100 CIN = 0 OUT= 0011 Carry = x
+Time = 80000 A = 0000, B = 0101 CIN = 0 OUT= 0101 Carry = x

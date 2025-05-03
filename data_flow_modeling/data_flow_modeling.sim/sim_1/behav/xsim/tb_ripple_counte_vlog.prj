@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../data_flow_modeling.srcs/sources_1/new/T_flip_flop.v" \
+"../../../../data_flow_modeling.srcs/sources_1/new/edge_trig_DFF.v" \
+"../../../../data_flow_modeling.srcs/sources_1/new/ripple_counter.v" \
+"../../../../data_flow_modeling.srcs/sim_1/new/tb_ripple_count.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,35 @@
+Vivado Simulator v2024.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: E:/Vivado/2024.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_ripple_counte_behav xil_defaultlib.tb_ripple_counte xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/ripple_counter.v" Line 1. Module ripple_counter_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/T_flip_flop.v" Line 3. Module T_flip_flop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/edge_trig_DFF.v" Line 1. Module edge_trig_DFF doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/T_flip_flop.v" Line 3. Module T_flip_flop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/edge_trig_DFF.v" Line 1. Module edge_trig_DFF doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/T_flip_flop.v" Line 3. Module T_flip_flop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/edge_trig_DFF.v" Line 1. Module edge_trig_DFF doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/T_flip_flop.v" Line 3. Module T_flip_flop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/edge_trig_DFF.v" Line 1. Module edge_trig_DFF doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/ripple_counter.v" Line 1. Module ripple_counter_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/T_flip_flop.v" Line 3. Module T_flip_flop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/edge_trig_DFF.v" Line 1. Module edge_trig_DFF doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/T_flip_flop.v" Line 3. Module T_flip_flop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/edge_trig_DFF.v" Line 1. Module edge_trig_DFF doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/T_flip_flop.v" Line 3. Module T_flip_flop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/edge_trig_DFF.v" Line 1. Module edge_trig_DFF doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/T_flip_flop.v" Line 3. Module T_flip_flop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/2025/Learning/FPGA_Projects/data_flow_modeling/data_flow_modeling.srcs/sources_1/new/edge_trig_DFF.v" Line 1. Module edge_trig_DFF doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.edge_trig_DFF
+Compiling module xil_defaultlib.T_flip_flop
+Compiling module xil_defaultlib.ripple_counter_default
+Compiling module xil_defaultlib.tb_ripple_counte
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_ripple_counte_behav
