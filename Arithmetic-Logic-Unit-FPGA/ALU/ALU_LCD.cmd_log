@@ -1,0 +1,13 @@
+xst -intstyle ise -ifn "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU_LCD.xst" -ofn "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU_LCD.syr" 
+xst -intstyle ise -ifn "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU_LCD.xst" -ofn "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU_LCD.syr" 
+xst -intstyle ise -ifn "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU_LCD.xst" -ofn "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU_LCD.syr" 
+xst -intstyle ise -ifn "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU_LCD.xst" -ofn "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU_LCD.syr" 
+xst -intstyle ise -ifn "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU_LCD.xst" -ofn "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU_LCD.syr" 
+xst -intstyle ise -ifn "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU_LCD.xst" -ofn "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU_LCD.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 "ALU_LCD.ngc" ALU_LCD.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o ALU_LCD_map.ncd ALU_LCD.ngd ALU_LCD.pcf 
+par -w -intstyle ise -ol high -t 1 ALU_LCD_map.ncd ALU_LCD.ncd ALU_LCD.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml ALU_LCD.twx ALU_LCD.ncd -o ALU_LCD.twr ALU_LCD.pcf 
+xst -intstyle ise -ifn "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU_LCD.xst" -ofn "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU_LCD.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc alu_constr.ucf -p xc3s500e-fg320-5 "ALU_LCD.ngc" ALU_LCD.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc alu_constr.ucf -p xc3s500e-fg320-5 "ALU_LCD.ngc" ALU_LCD.ngd  

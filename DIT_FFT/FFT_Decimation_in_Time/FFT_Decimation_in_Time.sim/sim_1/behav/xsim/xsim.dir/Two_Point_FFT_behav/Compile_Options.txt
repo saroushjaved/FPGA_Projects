@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "Two_Point_FFT_behav" "xil_defaultlib.Two_Point_FFT" "xil_defaultlib.glbl" -log "elaborate.log" 

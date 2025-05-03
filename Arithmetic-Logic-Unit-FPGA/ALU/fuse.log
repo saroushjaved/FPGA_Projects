@@ -1,0 +1,19 @@
+Running: H:\xilinx\14.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/test_bench_isim_beh.exe -prj H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/test_bench_beh.prj work.test_bench work.glbl 
+ISim P.28xd (signature 0xa0883be4)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/ALU.v" into library work
+Analyzing Verilog file "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/test_bench.v" into library work
+Analyzing Verilog file "H:/xilinx/14.2/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module ALU
+Compiling module test_bench
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 3 Verilog Units
+Built simulation executable H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/test_bench_isim_beh.exe
+Fuse Memory Usage: 28748 KB
+Fuse CPU Usage: 905 ms

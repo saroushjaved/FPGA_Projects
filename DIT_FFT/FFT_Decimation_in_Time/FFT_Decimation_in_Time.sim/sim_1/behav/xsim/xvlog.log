@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/2024/Learning 2024/FPGA_Projects/DFT_DIT/FFT_Decimation_in_Time/FFT_Decimation_in_Time.srcs/sources_1/new/Eight_Point_FFT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Eight_Point_FFT
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/2024/Learning 2024/FPGA_Projects/DFT_DIT/FFT_Decimation_in_Time/FFT_Decimation_in_Time.srcs/sources_1/new/Four_Point_FFT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Four_Point_FFT
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/2024/Learning 2024/FPGA_Projects/DFT_DIT/FFT_Decimation_in_Time/FFT_Decimation_in_Time.srcs/sources_1/new/Main_FFT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Main_FFT
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/2024/Learning 2024/FPGA_Projects/DFT_DIT/FFT_Decimation_in_Time/FFT_Decimation_in_Time.srcs/sources_1/new/Two_Point_FFT.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Two_Point_FFT
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/2024/Learning 2024/FPGA_Projects/DFT_DIT/FFT_Decimation_in_Time/FFT_Decimation_in_Time.srcs/sources_1/new/complex_mul_fixed.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module complex_mul_fixed
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/2024/Learning 2024/FPGA_Projects/DFT_DIT/FFT_Decimation_in_Time/FFT_Decimation_in_Time.srcs/sim_1/new/sim_main_fft.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sim_main_fft

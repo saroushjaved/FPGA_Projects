@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/test_bench_isim_beh.exe" -prj "H:/PIEAS/Semester 6/FPGA/Project FPGA/ALU/test_bench_beh.prj" "work.test_bench" "work.glbl" 
