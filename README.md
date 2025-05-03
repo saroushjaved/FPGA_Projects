@@ -1,6 +1,3 @@
-# FPGA_Projects
-
-This repository contains a collection of FPGA design projects implemented using various modeling techniques in Verilog HDL. Each folder represents a different abstraction level of hardware design, providing a comprehensive understanding of digital system modeling.
 
 # FPGA\_Projects
 
@@ -8,9 +5,9 @@ This repository contains a collection of FPGA design projects implemented in Ver
 
 ## Repository Structure
 
-### 📁 **gate\_level\_Modeling**
+### 📁 **GATE LEVEL MODELING**
 
-Projects implemented using primitive gate instances. These demonstrate the most fundamental approach to digital circuit design.
+Projects 
 
 **Contents:**
 
@@ -19,9 +16,9 @@ Projects implemented using primitive gate instances. These demonstrate the most 
 
 ---
 
-### 📁 **data\_flow\_modeling**
+### 📁 **DATA FLOW MODELING**
 
-Projects that focus on the flow and manipulation of data between components using continuous assignments and logical expressions.
+Projects 
 
 **Contents:**
 
@@ -32,9 +29,9 @@ Projects that focus on the flow and manipulation of data between components usin
 
 ---
 
-### 📁 **bheavourial\_modeling**
+### 📁 **BHEAVOURIAL MODELING**
 
-Projects using high-level procedural constructs (`always`, `if`, `case`, etc.) to describe the behavior of digital systems.
+Projects 
 
 **Contents:**
 
