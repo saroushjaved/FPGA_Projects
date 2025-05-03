@@ -4,20 +4,55 @@ This repository contains a collection of FPGA design projects implemented using 
 
 ## Repository Structure
 
-* **gate\_level\_Modeling**: Projects that utilize basic logic gates to construct digital circuits. This folder demonstrates the foundational level of digital design, where circuits are built using primitive gate instances.
+Here’s an updated version of your `README.md` that includes a more detailed breakdown of the contents in each modeling folder:
 
-* **data\_flow\_modeling**: Contains designs that describe the flow of data between registers and the logical operations performed on that data. This modeling style emphasizes the movement and transformation of data within the system.
+---
 
-* **bheavourial\_modeling**: Includes projects that focus on the behavior of digital systems, using high-level constructs to describe complex functionalities. Behavioral modeling allows for a more abstract and flexible design approach.
+# FPGA\_Projects
+
+This repository contains a collection of FPGA design projects implemented in Verilog HDL using different modeling techniques. It is structured to help learners and developers understand the three fundamental abstraction levels of digital design: Gate-Level, Dataflow, and Behavioral modeling.
+
+## Repository Structure
+
+### 📁 **gate\_level\_Modeling**
+
+Projects implemented using primitive gate instances. These demonstrate the most fundamental approach to digital circuit design.
+
+**Contents:**
+
+* 4-to-1 Multiplexer
+* 4-bit Adder
+
+---
+
+### 📁 **data\_flow\_modeling**
+
+Projects that focus on the flow and manipulation of data between components using continuous assignments and logical expressions.
+
+**Contents:**
+
+* Edge-Triggered D Flip-Flop
+* 4-to-1 Multiplexer
+* Ripple Counter
+* T Flip-Flop
+
+---
+
+### 📁 **bheavourial\_modeling**
+
+Projects using high-level procedural constructs (`always`, `if`, `case`, etc.) to describe the behavior of digital systems.
+
+**Contents:**
+
+* 4-to-1 Multiplexer
+
 
 ## Getting Started
 
 To explore the projects:([GitHub][1])
 
-1. Navigate to the folder corresponding to the modeling technique you're interested in.
-
+1. Navigate to the folder corresponding to the modeling technique you're interested in <project_root>/data_flow_modeling/data_flow_modeling.srcs/sources_1/new
 2. Open the Verilog files to review the code and understand the design implementations.
-
 3. Use a Verilog simulator or synthesis tool to compile and test the designs.
 
 ## Prerequisites
