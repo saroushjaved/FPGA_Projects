@@ -1,60 +1,50 @@
 
 # FPGA\_Projects
 
-This repository contains a collection of FPGA design projects implemented in Verilog HDL using different modeling techniques. It is structured to help learners and developers understand the three fundamental abstraction levels of digital design: Gate-Level, Dataflow, and Behavioral modeling.
+This repository contains a collection of FPGA design projects implemented in **Verilog HDL**, showcasing the three primary modeling techniques used in digital design:
 
-## Repository Structure
+* **Gate-Level Modeling**
+* **Dataflow Modeling**
+* **Behavioral Modeling**
 
-### 📁 **GATE LEVEL MODELING**
-
-**PROJECTS:**
-
-* 4-to-1 Multiplexer
-* 4-bit Adder
-
-### 📁 **DATA FLOW MODELING**
-
-**PROJECTS:**
-
-* Edge-Triggered D Flip-Flop
-* 4-to-1 Multiplexer
-* Ripple Counter
-* T Flip-Flop
-
-### 📁 **BHEAVOURIAL MODELING**
-
-**PROJECTS:**
-
-* 4-to-1 Multiplexer
-
-
-## Getting Started
-
-To explore the projects:([GitHub][1])
-
-1. Navigate to the folder corresponding to the modeling technique you're interested in
-   You can find the source codes here (Example Data Flow Folder) <project_root>/data_flow_modeling/data_flow_modeling.srcs/sources_1/new
-3. Open the Verilog files to review the code and understand the design implementations.
-4. Use a Verilog simulator or synthesis tool to compile and test the designs.
-
-## Prerequisites
-
-To work with these projects, you'll need:
-
-* An FPGA development environment (e.g., Xilinx Vivado)
-* The Projects can be directly opened using Vivado 2024.1
-* If you are simply intereseted in the Code you can naviagate to the sources for each folder
-
-* Basic understanding of digital logic design and Verilog HDL
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+Each project demonstrates real-world FPGA design practices using Verilog and is organized for clarity, learning, and reusability.
 
 ---
 
-Feel free to contribute to this repository by submitting pull requests or reporting issues.
+## 📁 Project Overview
+
+| Folder                | Modeling Technique | Projects Included                                                           | Link                                 |
+| --------------------- | ------------------ | --------------------------------------------------------------------------- | ------------------------------------ |
+| `gate_level_modeling` | Gate-Level         | 4-to-1 Multiplexer, 4-bit Adder                                             | [View Folder](./gate_level_modeling) |
+| `data_flow_modeling`  | Dataflow           | Edge-Triggered D Flip-Flop, 4-to-1 Multiplexer, Ripple Counter, T Flip-Flop | [View Folder](./data_flow_modeling)  |
+| `behavioral_modeling` | Behavioral         | 4-to-1 Multiplexer                                                          | [View Folder](./behavioral_modeling) |
+
+> 🔧 **Tip:** As you add more projects, simply append new rows to this table.
 
 ---
 
-[1]: https://github.com/AzazHassankhan/Machine_Learning_Models_FPGA?utm_source=chatgpt.com "GitHub - AzazHassankhan/Machine_Learning_Models_FPGA: Welcome to the ..."
+## 🧭 Getting Started
+
+To explore the projects:
+
+1. Choose a modeling technique and navigate to the appropriate folder.
+2. Source code is located in subdirectories like:
+   `project_root/<folder_name>/<project_name>.srcs/sources_1/new/`
+3. Open the `.v` Verilog files to review implementations.
+4. Use tools like **Xilinx Vivado (2024.1 recommended)** to simulate or synthesize the design.
+
+---
+
+## 📚 Prerequisites
+
+Before diving in, ensure you have:
+
+* A working FPGA development environment (e.g., [Xilinx Vivado](https://www.xilinx.com/products/design-tools/vivado.html))
+* Familiarity with Verilog HDL and digital logic design principles
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
