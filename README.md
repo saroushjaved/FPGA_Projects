@@ -1,6 +1,7 @@
 
 # FPGA\_Projects
-
+This repository is a collection of Verilog-based FPGA projects that I've worked on in my free time. These designs reflect my learning, experimentation, and interest in digital logic design and FPGA development. My goal is to keep growing this library over time, and I hope that sharing these projects might help you—whether you're a student, hobbyist, or developer—explore, learn from, or build upon them.
+Feel free to browse the different modeling techniques, experiment with the code, and contribute if you find something worth improving!
 
 ## 📁 Project Overview
 
