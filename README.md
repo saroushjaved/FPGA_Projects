@@ -15,7 +15,7 @@ Each project demonstrates real-world FPGA design practices using Verilog and is 
 
 | Folder                | Modeling Technique | Projects Included                                                           | Link                                 |
 | --------------------- | ------------------ | --------------------------------------------------------------------------- | ------------------------------------ |
-| `gate_level_modeling` | Gate-Level         | 4-to-1 Multiplexer, 4-bit Adder                                             | [View Folder](./gate_level_modeling) |
+| `gate_level_modeling` | Gate-Level         | 4-to-1 Multiplexer, 4-bit Adder                                             | [View Folder](./gate_level_Modeling) |
 | `data_flow_modeling`  | Dataflow           | Edge-Triggered D Flip-Flop, 4-to-1 Multiplexer, Ripple Counter, T Flip-Flop | [View Folder](./data_flow_modeling)  |
 | `behavioral_modeling` | Behavioral         | 4-to-1 Multiplexer                                                          | [View Folder](./behavioral_modeling) |
 
