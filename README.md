@@ -32,9 +32,10 @@ This repository contains a collection of FPGA design projects implemented in Ver
 
 To explore the projects:([GitHub][1])
 
-1. Navigate to the folder corresponding to the modeling technique you're interested in <project_root>/data_flow_modeling/data_flow_modeling.srcs/sources_1/new
-2. Open the Verilog files to review the code and understand the design implementations.
-3. Use a Verilog simulator or synthesis tool to compile and test the designs.
+1. Navigate to the folder corresponding to the modeling technique you're interested in
+   You can find the source codes here (Example Data Flow Folder) <project_root>/data_flow_modeling/data_flow_modeling.srcs/sources_1/new
+3. Open the Verilog files to review the code and understand the design implementations.
+4. Use a Verilog simulator or synthesis tool to compile and test the designs.
 
 ## Prerequisites
 
