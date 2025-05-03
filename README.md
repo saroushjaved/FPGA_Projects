@@ -2,12 +2,6 @@
 
 This repository contains a collection of FPGA design projects implemented using various modeling techniques in Verilog HDL. Each folder represents a different abstraction level of hardware design, providing a comprehensive understanding of digital system modeling.
 
-## Repository Structure
-
-Here’s an updated version of your `README.md` that includes a more detailed breakdown of the contents in each modeling folder:
-
----
-
 # FPGA\_Projects
 
 This repository contains a collection of FPGA design projects implemented in Verilog HDL using different modeling techniques. It is structured to help learners and developers understand the three fundamental abstraction levels of digital design: Gate-Level, Dataflow, and Behavioral modeling.
