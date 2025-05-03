@@ -7,33 +7,23 @@ This repository contains a collection of FPGA design projects implemented in Ver
 
 ### 📁 **GATE LEVEL MODELING**
 
-Projects 
-
-**Contents:**
+**PROJECTS:**
 
 * 4-to-1 Multiplexer
 * 4-bit Adder
 
----
-
 ### 📁 **DATA FLOW MODELING**
 
-Projects 
-
-**Contents:**
+**PROJECTS:**
 
 * Edge-Triggered D Flip-Flop
 * 4-to-1 Multiplexer
 * Ripple Counter
 * T Flip-Flop
 
----
-
 ### 📁 **BHEAVOURIAL MODELING**
 
-Projects 
-
-**Contents:**
+**PROJECTS:**
 
 * 4-to-1 Multiplexer
 
