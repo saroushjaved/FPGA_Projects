@@ -1,60 +1,17 @@
 
 # FPGA\_Projects
+This repository is a collection of Verilog-based FPGA projects that I've worked on in my free time. These designs reflect my learning, experimentation, and interest in digital logic design and FPGA development. My goal is to keep growing this library over time, and I hope that sharing these projects might help you—whether you're a student, hobbyist, or developer—explore, learn from, or build upon them.
+Feel free to browse the different modeling techniques, experiment with the code, and contribute if you find something worth improving!
 
-This repository contains a collection of FPGA design projects implemented in Verilog HDL using different modeling techniques. It is structured to help learners and developers understand the three fundamental abstraction levels of digital design: Gate-Level, Dataflow, and Behavioral modeling.
+## 📁 Project Overview
 
-## Repository Structure
-
-### 📁 **GATE LEVEL MODELING**
-
-**PROJECTS:**
-
-* 4-to-1 Multiplexer
-* 4-bit Adder
-
-### 📁 **DATA FLOW MODELING**
-
-**PROJECTS:**
-
-* Edge-Triggered D Flip-Flop
-* 4-to-1 Multiplexer
-* Ripple Counter
-* T Flip-Flop
-
-### 📁 **BHEAVOURIAL MODELING**
-
-**PROJECTS:**
-
-* 4-to-1 Multiplexer
+| Project Name          | Status             | Projects Included                                                           | Link                                 |
+| --------------------- | ------------------ | --------------------------------------------------------------------------- | ------------------------------------ |
+| `gate_level_modeling` | On Going           | A Collection of Gate Level Abstraction Projects                             | [View Folder](./gate_level_Modeling) |
+| `data_flow_modeling`  | On Going           | A Collection of Data Flow Level Abstraction Projects                        | [View Folder](./data_flow_modeling)  |
+| `behavioral_modeling` | On Going           | A Collection of Behavioral Level Abstraction Projects                       | [View Folder](./behavioral_modeling) |
+| `DIT_FFT`             | Not Complete       | Decimation in Time Fast Fourier Trasnform Project                           | [View Folder](./behavioral_modeling) |
+| `Arithmetic-Logic-Unit-FPGA` | Complete    | 16-Bit ALU Verilog Xilinx ISE                                               | [View Folder](./Arithmetic-Logic-Unit-FPGA) |
 
 
-## Getting Started
 
-To explore the projects:([GitHub][1])
-
-1. Navigate to the folder corresponding to the modeling technique you're interested in
-   You can find the source codes here (Example Data Flow Folder) <project_root>/data_flow_modeling/data_flow_modeling.srcs/sources_1/new
-3. Open the Verilog files to review the code and understand the design implementations.
-4. Use a Verilog simulator or synthesis tool to compile and test the designs.
-
-## Prerequisites
-
-To work with these projects, you'll need:
-
-* An FPGA development environment (e.g., Xilinx Vivado)
-* The Projects can be directly opened using Vivado 2024.1
-* If you are simply intereseted in the Code you can naviagate to the sources for each folder
-
-* Basic understanding of digital logic design and Verilog HDL
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Feel free to contribute to this repository by submitting pull requests or reporting issues.
-
----
-
-[1]: https://github.com/AzazHassankhan/Machine_Learning_Models_FPGA?utm_source=chatgpt.com "GitHub - AzazHassankhan/Machine_Learning_Models_FPGA: Welcome to the ..."
