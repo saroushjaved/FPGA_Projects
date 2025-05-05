@@ -12,6 +12,6 @@ Feel free to browse the different modeling techniques, experiment with the code,
 | `behavioral_modeling` | On Going           | A Collection of Behavioral Level Abstraction Projects                       | [View Folder](./behavioral_modeling) |
 | `DIT_FFT`             | Not Complete       | Decimation in Time Fast Fourier Trasnform Project                           | [View Folder](./behavioral_modeling) |
 | `Arithmetic-Logic-Unit-FPGA` | Complete    | 16-Bit ALU Verilog Xilinx ISE                                               | [View Folder](./Arithmetic-Logic-Unit-FPGA) |
-| `16-Bit-ALU` | On Going    | 16-Bit ALU Verilog in Vivado 2024. Same functionality implemented using simple Bheavioral Modeling and then Vertical Partitioning to undestand difference of synthesis between two. Analysis Notes Added to Folder.                                               | [View Folder](./Arithmetic-Logic-Unit-FPGA) |
+| `16-Bit-ALU` | On Going    | 16-Bit ALU Verilog in Vivado 2024. Same functionality implemented using simple Bheavioral Modeling and then Vertical Partitioning to undestand difference of synthesis between two. Analysis Notes Added to Folder.                                               | [View Folder](./16_Bit_ALU) |
 
 
