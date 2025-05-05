@@ -1,0 +1,16 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sim_1/new/ALU_TB.v,1746474456,verilog,,,,tb_ALU_Simple,,,,,,,,
+D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/ALU_Simple.v,1746474377,verilog,,D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sim_1/new/ALU_TB.v,,ALU_Simple,,,,,,,,
+D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/Verticle_Partition_ALU.v,1746474406,verilog,,D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/adder.v,,Verticle_Partition_ALU,,,,,,,,
+D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/adder.v,1746473997,verilog,,D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/andoperation.v,,adder,,,,,,,,
+D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/andoperation.v,1746474054,verilog,,D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/dividor.v,,andoperation,,,,,,,,
+D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/dividor.v,1746474022,verilog,,D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/leftshift.v,,dividor,,,,,,,,
+D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/leftshift.v,1746474037,verilog,,D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/modolu.v,,leftshift,,,,,,,,
+D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/modolu.v,1746474028,verilog,,D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/multiplier.v,,modolu,,,,,,,,
+D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/multiplier.v,1746474014,verilog,,D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/rightshift.v,,multiplier,,,,,,,,
+D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/rightshift.v,1746474048,verilog,,D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/subtractor.v,,rightshift,,,,,,,,
+D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sources_1/new/subtractor.v,1746474003,verilog,,D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sim_1/new/ALU_TB.v,,subtractor,,,,,,,,

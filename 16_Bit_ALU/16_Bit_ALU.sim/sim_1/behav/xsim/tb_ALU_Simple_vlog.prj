@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../16_Bit_ALU.srcs/sources_1/new/Verticle_Partition_ALU.v" \
+"../../../../16_Bit_ALU.srcs/sources_1/new/adder.v" \
+"../../../../16_Bit_ALU.srcs/sources_1/new/andoperation.v" \
+"../../../../16_Bit_ALU.srcs/sources_1/new/dividor.v" \
+"../../../../16_Bit_ALU.srcs/sources_1/new/leftshift.v" \
+"../../../../16_Bit_ALU.srcs/sources_1/new/modolu.v" \
+"../../../../16_Bit_ALU.srcs/sources_1/new/multiplier.v" \
+"../../../../16_Bit_ALU.srcs/sources_1/new/rightshift.v" \
+"../../../../16_Bit_ALU.srcs/sources_1/new/subtractor.v" \
+"../../../../16_Bit_ALU.srcs/sim_1/new/ALU_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

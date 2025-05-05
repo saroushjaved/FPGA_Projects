@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time=16000 | A=10, B=10, OP=0, SOL=20
+Time=26000 | A=20, B=10, OP=1, SOL=10
+Time=36000 | A=10, B=4, OP=2, SOL=40
+Time=46000 | A=64, B=1, OP=3, SOL=32
+Time=56000 | A=64, B=1, OP=4, SOL=128
+Time=66000 | A=15, B=10, OP=5, SOL=5
+Time=76000 | A=100, B=10, OP=6, SOL=10
+Time=86000 | A=100, B=15, OP=7, SOL=4
+$finish called at time : 106 ns : File "D:/2025/Learning/FPGA_Projects/16_Bit_ALU/16_Bit_ALU.srcs/sim_1/new/ALU_TB.v" Line 49
