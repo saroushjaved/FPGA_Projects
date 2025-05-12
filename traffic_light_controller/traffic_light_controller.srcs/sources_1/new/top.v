@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-
+// This is not synthesisable as multiple assignments to delay cou
 // Defining Common Outputs as Words
 `define GREEN  0
 `define YELLOW 1
@@ -82,7 +82,7 @@ begin
 end
 
 
-// Output logic based on state( This is simply computi
+// Output logic based on state( This is simply comput
 always @(*)
 begin
     case(state)
