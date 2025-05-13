@@ -187,4 +187,16 @@ Time resolution is 1 ps
                  925 clk=1, X=1, reset=0, highway=01, country=10
                  930 clk=0, X=0, reset=0, highway=01, country=10
                  935 clk=1, X=0, reset=0, highway=01, country=10
-                 940 clk=0, X=0, reset=0, hi
+                 940 clk=0, X=0, reset=0, highway=01, country=10
+                 945 clk=1, X=0, reset=0, highway=01, country=10
+                 950 clk=0, X=0, reset=0, highway=01, country=10
+                 955 clk=1, X=0, reset=0, highway=01, country=10
+                 960 clk=0, X=0, reset=0, highway=01, country=10
+                 965 clk=1, X=0, reset=0, highway=10, country=10
+                 970 clk=0, X=1, reset=0, highway=10, country=10
+                 975 clk=1, X=1, reset=0, highway=10, country=10
+                 980 clk=0, X=1, reset=0, highway=10, country=10
+                 985 clk=1, X=1, reset=0, highway=10, country=10
+                 990 clk=0, X=1, reset=0, highway=10, country=10
+                 995 clk=1, X=1, reset=0, highway=10, country=10
+                1000 clk=0, X=1, reset=0, highway=10, country=10
