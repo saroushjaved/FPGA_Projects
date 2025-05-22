@@ -1,13 +1,15 @@
-From https://github.com/saroushjaved/FPGA_Projects
- * branch            main       -> FETCH_HEAD
-Already up to date.
-warning: in the working copy of 'commit_auto.bat', LF will be replaced by CRLF the next time Git touches it
-warning: in the working copy of 'git_auto_push.log', LF will be replaced by CRLF the next time Git touches it
-[main d683b43] Auto-commit on 18/05/2025 at 14:16:18.44
- 2 files changed, 29 insertions(+), 6 deletions(-)
- create mode 100644 git_auto_push.log
-To https://github.com/saroushjaved/FPGA_Projects.git
-   3a430db..d683b43  main -> main
-From https://github.com/saroushjaved/FPGA_Projects
+Add the missing licence / provenance lines at the end of Sec. 7.1.1 for both Kaggle datasets.
+
+Create the “Hyper-parameter selection” subsection (≈ ½ page).
+
+Write the short comparative justification of the chosen LSTM architecture.
+
+Generate the training-vs-validation loss plot (save as PNG, include Fig. 10, fix “Figure ??”).
+
+Run a residual check (statsmodels.graphics.tsaplots.plot_acf or Durbin–Watson), summarise results in ≤ 8 lines and include a small figure in Appendix if desired.
+
+Update all cross-references and scan for any remaining “Figure ??” or “Table ??”.
+
+Re-build the PDF and do a final citation sweep.From https://github.com/saroushjaved/FPGA_Projects
  * branch            main       -> FETCH_HEAD
 Already up to date.
