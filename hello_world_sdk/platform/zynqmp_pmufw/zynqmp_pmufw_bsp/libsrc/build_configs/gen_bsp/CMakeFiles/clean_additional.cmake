@@ -1,0 +1,41 @@
+# Additional clean files
+cmake_minimum_required(VERSION 3.16)
+
+if("${CONFIG}" STREQUAL "" OR "${CONFIG}" STREQUAL "")
+  file(REMOVE_RECURSE
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\sleep.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xfpga_config.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xilfpga.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xilfpga_pcap.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xilfpga_pcap_common.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xilskey_bbramps_zynqmp_hw.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xilskey_bsp_config.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xilskey_eps_zynqmp.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xilskey_eps_zynqmp_hw.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xilskey_eps_zynqmp_puf.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xilskey_utils.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xiltimer.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_aes.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_aes_hw.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_aesalginfo.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_config.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_cryptochk.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_rsa.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_rsa_core.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_rsa_hw.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_rsaalginfo.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_sha.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_sha3alginfo.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_sha_hw.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_sss.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_utils.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xsecure_ver.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\include\\xtimer_config.h"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\lib\\libxilfpga.a"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\lib\\libxilsecure.a"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\lib\\libxilsecure_plat.a"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\lib\\libxilskey.a"
+  "D:\\2025\\Learning\\FPGA_Projects\\hello_world_sdk\\platform\\zynqmp_pmufw\\zynqmp_pmufw_bsp\\lib\\libxiltimer.a"
+  )
+endif()
