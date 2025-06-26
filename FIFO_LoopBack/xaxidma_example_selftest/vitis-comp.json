@@ -1,0 +1,15 @@
+{
+  "name": "xaxidma_example_selftest",
+  "type": "HOST",
+  "platform": "D:\\2025\\Learning\\FPGA_Projects\\FIFO_LoopBack\\platform\\export\\platform\\platform.xpfm",
+  "domain": "standalone_psu_cortexa53_0",
+  "cpuInstance": "psu_cortexa53_0",
+  "cpuType": "cortex-a53",
+  "os": "standalone",
+  "configuration": {
+    "componentType": "HOST",
+    "hostToolchainConfigurations": []
+  },
+  "domainRealName": "standalone_psu_cortexa53_0",
+  "applicationFlow": "EMBEDDED"
+}

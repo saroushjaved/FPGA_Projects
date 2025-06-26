@@ -1,0 +1,3 @@
+D:/2025/Learning/FPGA_Projects/FIFO_LoopBack/platform/zynqmp_fsbl/build/CMakeFiles/fsbl.elf.dir
+D:/2025/Learning/FPGA_Projects/FIFO_LoopBack/platform/zynqmp_fsbl/build/CMakeFiles/edit_cache.dir
+D:/2025/Learning/FPGA_Projects/FIFO_LoopBack/platform/zynqmp_fsbl/build/CMakeFiles/rebuild_cache.dir
