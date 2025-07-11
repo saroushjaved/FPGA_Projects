@@ -22479,3 +22479,17 @@ To https://github.com/saroushjaved/FPGA_Projects.git
 From https://github.com/saroushjaved/FPGA_Projects
  * branch            main       -> FETCH_HEAD
 Already up to date.
+warning: in the working copy of 'git_auto_push.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'SevenSegDisplayHEX/simulation.gtkw', LF will be replaced by CRLF the next time Git touches it
+[main ad0e07a] Auto-commit on 11/07/2025 at 22:12:28.24
+ 7 files changed, 482 insertions(+), 9 deletions(-)
+ create mode 100644 SevenSegDisplayHEX/HextoSevenSegment.v
+ create mode 100644 SevenSegDisplayHEX/simulation.gtkw
+ create mode 100644 SevenSegDisplayHEX/tb_HextoSevenSegment.v
+ create mode 100644 SevenSegDisplayHEX/tb_HextoSevenSegment.vcd
+ create mode 100644 SevenSegDisplayHEX/tb_HextoSevenSegment.vvp
+To https://github.com/saroushjaved/FPGA_Projects.git
+   51b594c..ad0e07a  main -> main
+From https://github.com/saroushjaved/FPGA_Projects
+ * branch            main       -> FETCH_HEAD
+Already up to date.
