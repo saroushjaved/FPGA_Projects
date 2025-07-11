@@ -5,13 +5,14 @@ Feel free to browse the different modeling techniques, experiment with the code,
 
 ## 📁 Project Overview
 
-| Project Name          | Status             | Projects Included                                                           | Link                                 |
-| --------------------- | ------------------ | --------------------------------------------------------------------------- | ------------------------------------ |
-| `gate_level_modeling` | On Going           | A Collection of Gate Level Abstraction Projects                             | [View Folder](./gate_level_Modeling) |
-| `data_flow_modeling`  | On Going           | A Collection of Data Flow Level Abstraction Projects                        | [View Folder](./data_flow_modeling)  |
-| `behavioral_modeling` | On Going           | A Collection of Behavioral Level Abstraction Projects                       | [View Folder](./behavioral_modeling) |
-| `DIT_FFT`             | Not Complete       | Decimation in Time Fast Fourier Trasnform Project                           | [View Folder](./behavioral_modeling) |
-| `Arithmetic-Logic-Unit-FPGA` |     | 16-Bit ALU Verilog Xilinx ISE                                               | [View Folder](./Arithmetic-Logic-Unit-FPGA) |
-| `16-Bit-ALU` | Complete    | 16-Bit ALU Verilog in Vivado 2024. Same functionality implemented using simple Bheavioral Modeling and then Vertical Partitioning to undestand difference of synthesis between two.                                               | [View Folder](./16_Bit_ALU) |
-| `traffic_light_controller` | Complete   | A Sequential Machine based Traffic Light Controller     | [View Folder](./traffic_light_controller) |
+| Project Name                  | Status       | Projects Included                                                                                                          | Software       | Link                                         |
+| ---------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------- |
+| `gate_level_modeling`        | Complete     | A Collection of Gate Level Abstraction Projects                                                                            | Vivado         | [View Folder](./gate_level_Modeling)         |
+| `data_flow_modeling`         | Complete     | A Collection of Data Flow Level Abstraction Projects                                                                       | Vivado         | [View Folder](./data_flow_modeling)          |
+| `behavioral_modeling`        | Complete     | A Collection of Behavioral Level Abstraction Projects                                                                      | Vivado         | [View Folder](./behavioral_modeling)         |
+| `DIT_FFT`                    | Not Complete | Decimation in Time Fast Fourier Transform Project                                                                          | Vivado         | [View Folder](./behavioral_modeling)         |
+| `Arithmetic-Logic-Unit-FPGA` |  Complete   | 16-Bit ALU Verilog Xilinx ISE                                                                                               | Vivado         | [View Folder](./Arithmetic-Logic-Unit-FPGA)  |
+| `16-Bit-ALU`                 | Complete     | 16-Bit ALU Verilog in Vivado 2024. Same functionality implemented using simple Behavioral Modeling and then Vertical Partitioning to understand difference of synthesis between two. | Vivado         | [View Folder](./16_Bit_ALU)                 |
+| `traffic_light_controller`   | Complete     | A Sequential Machine based Traffic Light Controller                                                                        | Vivado         | [View Folder](./traffic_light_controller)    |
+| `SevenSegDisplayHEX`         | Complete     | Simple Hex to Seven Segment Display                                                                                        | Icarus Verilog | [View Folder](./SevenSegDisplayHEX)          |
 
