@@ -15,4 +15,4 @@ Feel free to browse the different modeling techniques, experiment with the code,
 | `16-Bit-ALU`                 | Complete     | 16-Bit ALU Verilog in Vivado 2024. Same functionality implemented using simple Behavioral Modeling and then Vertical Partitioning to understand difference of synthesis between two. | Vivado         | [View Folder](./16_Bit_ALU)                 |
 | `traffic_light_controller`   | Complete     | A Sequential Machine based Traffic Light Controller                                                                        | Vivado         | [View Folder](./traffic_light_controller)    |
 | `SevenSegDisplayHEX`         | Complete     | Simple Hex to Seven Segment Display                                                                                        | Icarus Verilog | [View Folder](./SevenSegDisplayHEX)          |
-
+| `FloatingPointAdder_Simple`         | Complete     | A Simple Floating Point Adder For 13 Bit (1 Sign, 8 Significant, 4 Exponenet)    | Icarus Verilog | [View Folder](./FloatingPointAdder_Simple)          |
