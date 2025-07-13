@@ -17,3 +17,15 @@ To https://github.com/saroushjaved/FPGA_Projects.git
 From https://github.com/saroushjaved/FPGA_Projects
  * branch            main       -> FETCH_HEAD
 Already up to date.
+warning: in the working copy of 'git_auto_push.log', LF will be replaced by CRLF the next time Git touches it
+[main ef0838f] Auto-commit on 13/07/2025 at  4:03:47.83
+ 6 files changed, 1099 insertions(+), 1 deletion(-)
+ create mode 100644 FloatingPointAdder_Simple/fp_adder.v
+ create mode 100644 FloatingPointAdder_Simple/fp_adder_tb.v
+ create mode 100644 FloatingPointAdder_Simple/fp_adder_tb.vcd
+ create mode 100644 FloatingPointAdder_Simple/fp_adder_tb.vvp
+To https://github.com/saroushjaved/FPGA_Projects.git
+   9aa7e3b..ef0838f  main -> main
+From https://github.com/saroushjaved/FPGA_Projects
+ * branch            main       -> FETCH_HEAD
+Already up to date.
