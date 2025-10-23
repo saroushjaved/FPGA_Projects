@@ -10867,3 +10867,22 @@ To https://github.com/saroushjaved/FPGA_Projects.git
 From https://github.com/saroushjaved/FPGA_Projects
  * branch            main       -> FETCH_HEAD
 Already up to date.
+warning: in the working copy of 'git_auto_push.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mini_module_hello_world/platform/ps7_cortexa9_0/hellow_world/bsp/libsrc/build_configs/gen_bsp/.ninja_log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mini_module_hello_world/platform/ps7_cortexa9_0/standalone_ps7_cortexa9_0/bsp/libsrc/build_configs/gen_bsp/.ninja_log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mini_module_hello_world/platform/vitis-comp.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mini_module_hello_world/platform/zynq_fsbl/build/.ninja_log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mini_module_hello_world/platform/zynq_fsbl/zynq_fsbl_bsp/libsrc/build_configs/gen_bsp/.ninja_log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'mini_module_hello_world/hello_world/BOOTFILE/untitled.bif', LF will be replaced by CRLF the next time Git touches it
+[main 7f6db57] Auto-commit on 22/10/2025 at 23:00:19.11
+ 13 files changed, 10640 insertions(+), 18 deletions(-)
+ create mode 100644 mini_module_hello_world/hello_world/BOOTFILE/BOOT.bin
+ create mode 100644 mini_module_hello_world/hello_world/BOOTFILE/untitled.bif
+ create mode 100644 mini_module_hello_world/hello_world/src/.cache/clangd/index/helloworld.c.27120B7E630EBACD.idx
+ create mode 100644 mini_module_hello_world/hello_world/src/.cache/clangd/index/platform.c.BFC4E55DE1331AAC.idx
+ create mode 100644 mini_module_hello_world/hello_world/src/.cache/clangd/index/platform.h.198C219E6E16EA5F.idx
+To https://github.com/saroushjaved/FPGA_Projects.git
+   4d7bb5e..7f6db57  main -> main
+From https://github.com/saroushjaved/FPGA_Projects
+ * branch            main       -> FETCH_HEAD
+Already up to date.
