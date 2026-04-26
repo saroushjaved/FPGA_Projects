@@ -1,7 +1,0 @@
-Running: xsim.dir/tb_traffic_controller_behav/xsimk.exe -simmode gui -wdb tb_traffic_controller_behav.wdb -simrunnum 0 -socket 53209
-Design successfully loaded
-Design Loading Memory Usage: 10536 KB (Peak: 10536 KB)
-Design Loading CPU Usage: 62 ms
-Simulation completed
-Simulation Memory Usage: 11192 KB (Peak: 11192 KB)
-Simulation CPU Usage: 62 ms

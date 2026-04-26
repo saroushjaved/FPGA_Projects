@@ -1,7 +1,0 @@
-//arch = zynq; split = false; format = BIN
-the_ROM_image:
-{
-	[bootloader]D:\2025\Learning\FPGA_Projects\mini_module_hello_world\platform\export\platform\sw\boot\fsbl.elf
-	D:\2025\Learning\FPGA_Projects\mini_module_hello_world\hello_world\_ide\bitstream\hellow_platform_ooo.bit
-	D:\2025\Learning\FPGA_Projects\mini_module_hello_world\hello_world\build\hello_world.elf
-}

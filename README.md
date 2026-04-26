@@ -1,18 +1,24 @@
+# FPGA Projects
 
-# FPGA\_Projects
-This repository is a collection of Verilog-based FPGA projects that I've worked on in my free time. These designs reflect my learning, experimentation, and interest in digital logic design and FPGA development. My goal is to keep growing this library over time, and I hope that sharing these projects might help you—whether you're a student, hobbyist, or developer—explore, learn from, or build upon them.
-Feel free to browse the different modeling techniques, experiment with the code, and contribute if you find something worth improving!
+Clean collection of Verilog FPGA projects focused on digital logic design, FPGA learning, RTL modeling, simulation testbenches, and reusable HDL examples.
 
-## 📁 Project Overview
+Each project is organized into:
 
-| Project Name                  | Status       | Projects Included                                                                                                          | Software       | Link                                         |
-| ---------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------------------------------- |
-| `gate_level_modeling`        | Complete     | A Collection of Gate Level Abstraction Projects                                                                            | Vivado         | [View Folder](./gate_level_Modeling)         |
-| `data_flow_modeling`         | Complete     | A Collection of Data Flow Level Abstraction Projects                                                                       | Vivado         | [View Folder](./data_flow_modeling)          |
-| `behavioral_modeling`        | Complete     | A Collection of Behavioral Level Abstraction Projects                                                                      | Vivado         | [View Folder](./behavioral_modeling)         |
-| `DIT_FFT`                    | Not Complete | Decimation in Time Fast Fourier Transform Project                                                                          | Vivado         | [View Folder](./behavioral_modeling)         |
-| `Arithmetic-Logic-Unit-FPGA` |  Complete   | 16-Bit ALU Verilog Xilinx ISE                                                                                               | Vivado         | [View Folder](./Arithmetic-Logic-Unit-FPGA)  |
-| `16-Bit-ALU`                 | Complete     | 16-Bit ALU Verilog in Vivado 2024. Same functionality implemented using simple Behavioral Modeling and then Vertical Partitioning to understand difference of synthesis between two. | Vivado         | [View Folder](./16_Bit_ALU)                 |
-| `traffic_light_controller`   | Complete     | A Sequential Machine based Traffic Light Controller                                                                        | Vivado         | [View Folder](./traffic_light_controller)    |
-| `SevenSegDisplayHEX`         | Complete     | Simple Hex to Seven Segment Display                                                                                        | Icarus Verilog | [View Folder](./SevenSegDisplayHEX)          |
-| `FloatingPointAdder_Simple`         | Complete     | A Simple Floating Point Adder For 13 Bit (1 Sign, 8 Significant, 4 Exponenet)    | Icarus Verilog | [View Folder](./FloatingPointAdder_Simple)          |
+- `Source`: Verilog HDL design files
+- `TestBench`: simulation testbenches, where available
+
+Generated Vivado/ISE files, logs, caches, implementation outputs, bitstreams, and incomplete generated-only projects were removed.
+
+## Projects
+
+| Project | Description |
+| --- | --- |
+| [16_Bit_ALU](./16_Bit_ALU) | 16-bit ALU in Verilog with both simple behavioral RTL and modular vertical partitioning. |
+| [Arithmetic-Logic-Unit-FPGA](./Arithmetic-Logic-Unit-FPGA) | FPGA ALU RTL with arithmetic, shift, rotate, logic, and comparison operations. |
+| [bheavourial_modeling](./bheavourial_modeling) | Behavioral Verilog 4-to-1 multiplexer example. |
+| [data_flow_modeling](./data_flow_modeling) | Dataflow Verilog examples including a mux, edge-triggered D flip-flop, T flip-flop, and ripple counter. |
+| [DIT_FFT](./DIT_FFT) | Decimation-in-time FFT RTL for 2-point, 4-point, and 8-point fixed-point processing. |
+| [FIFO_Synthesisable](./FIFO_Synthesisable) | Synthesizable parameterized FIFO memory and controller in Verilog. |
+| [FloatingPointAdder_Simple](./FloatingPointAdder_Simple) | Educational 13-bit floating-point adder with sign, significand, and exponent fields. |
+| [gate_level_Modeling](./gate_level_Modeling) | Gate-level Verilog examples using primitive gates for basic combinational logic. |
+| [SevenSegDisplayHEX](./SevenSegDisplayHEX) | Hexadecimal to seven-segment display decoder with testbench. |
